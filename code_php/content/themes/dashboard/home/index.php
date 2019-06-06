@@ -1,0 +1,1 @@
+<h1>Page d'accueil du tableau de bord.</h1>

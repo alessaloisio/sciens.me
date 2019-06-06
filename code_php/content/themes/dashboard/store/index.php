@@ -1,0 +1,1 @@
+<h1>Configurer votre Boutique</h1>
